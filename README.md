@@ -7,7 +7,7 @@
 ---
 
 ### 🔥 Skills
-- **Programming:** Python, SQL, C, Java
+- **Programming:** Python, SQL, Web Dev, C
 - **Data Science & ML:** Pandas, NumPy, Scikit-Learn, TensorFlow, Deep Learning, Computer Vision, Natural Language Processing
 - **Tools:** Flask, AWS, Tableau, Power BI, Git
 - **Databases:** MySQL, MongoDB
