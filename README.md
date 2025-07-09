@@ -114,6 +114,7 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham093&layout=compact&theme=tokyonight&langs_count=8)
   
+  
 </div>
 
 ## 🌟 Recent Activity
@@ -121,10 +122,14 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-  
   ### 💬 Let's Connect!
   
   I'm always open to discussing AI/ML projects, research collaborations, or opportunities in data science and machine learning.
+  
+  [![Email](https://img.shields.io/badge/Email-shah.prathamt@northeastern.edu-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shah.prathamt@northeastern.edu)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-prats0906-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prats0906/)
+  [![Instagram](https://img.shields.io/badge/Instagram-pratham093-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pratham093)
+  [![GitHub](https://img.shields.io/badge/GitHub-pratham093-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratham093)
   
   ![Profile Views](https://komarev.com/ghpvc/?username=pratham093&color=blue&style=flat-square)
   
