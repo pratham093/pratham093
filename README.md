@@ -131,8 +131,6 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
   [![Instagram](https://img.shields.io/badge/Instagram-pratham093-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/pratham093)
   [![GitHub](https://img.shields.io/badge/GitHub-pratham093-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/pratham093)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=pratham093&color=blue&style=flat-square)
-  
   ⭐️ From [pratham093](https://github.com/pratham093)
   
 </div>
