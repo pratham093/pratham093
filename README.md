@@ -114,8 +114,6 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratham093&layout=compact&theme=tokyonight&langs_count=8)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pratham093&theme=tokyonight)
-  
 </div>
 
 ## 🌟 Recent Activity
@@ -123,13 +121,6 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratham093&theme=tokyo-night)
-
----
-
-<div align="center">
   
   ### 💬 Let's Connect!
   
