@@ -75,7 +75,7 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
 - Integrated Llama3 for advanced sentence prediction, increasing accuracy by 20%
 - Published research paper accepted at ICDLAIR 2024
 
-### 📈 [Stock Overflow - Intelligent Stock Recommender]((https://github.com/pratham093/AlphaBytes_StockOverflow))
+### 📈 [Stock Overflow - Intelligent Stock Recommender](https://github.com/pratham093/AlphaBytes_StockOverflow)
 **Tech Stack:** Python, BeautifulSoup, NLP, ARIMA
 - Developed BeanStock Chatbot for personalized investment recommendations
 - Implemented ARIMA algorithms for 7-day price predictions
