@@ -69,19 +69,19 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
 
 ## 🏆 Featured Projects
 
-### 🤖 [VERBIX - Enhanced Indian Sign Language Recognition](https://github.com/pratham093/verbix)
+### 🤖 [VERBIX - Enhanced Indian Sign Language Recognition](https://github.com/pratham093/ISL_LLAMA3))
 **Tech Stack:** Python, MediaPipe, Llama3, LSTM, OpenCV
 - Built an innovative ISL translation system improving communication accessibility
 - Integrated Llama3 for advanced sentence prediction, increasing accuracy by 20%
 - Published research paper accepted at ICDLAIR 2024
 
-### 📈 [Stock Overflow - Intelligent Stock Recommender](https://github.com/pratham093/stock-overflow)
+### 📈 [Stock Overflow - Intelligent Stock Recommender]((https://github.com/pratham093/AlphaBytes_StockOverflow))
 **Tech Stack:** Python, BeautifulSoup, NLP, ARIMA
 - Developed BeanStock Chatbot for personalized investment recommendations
 - Implemented ARIMA algorithms for 7-day price predictions
 - Improved user engagement and decision-making by 25%
 
-### 🚑 [Emergency Medical Navigation System](https://github.com/pratham093/medical-navigation)
+### 🚑 [Emergency Medical Navigation System](https://github.com/pratham093/Smart-Ambulance-Navigation-System)
 **Tech Stack:** Multi-algorithm pathfinding, Python
 - Optimized emergency response routing using advanced algorithms
 - Research accepted at ICIVC 2025, Springer Book Series 'LNNS'
