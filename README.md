@@ -20,24 +20,6 @@ I'm a passionate Data Analytics Engineering graduate student at Northeastern Uni
 - 👯 Looking to collaborate on AI/ML research projects
 - 🎓 Expected graduation: December 2027
 
-## 💼 Professional Experience
-
-<details>
-<summary><b>AI/ML Intern @ Proverse Technologies</b> (Jun '24 - Nov '24)</summary>
-
-- 🤖 Developed an intelligent document retrieval system for Telebot, reducing manual searches by 40%
-- 📊 Enhanced operational efficiency by 25% through seamless database integration
-- 🚀 Optimized document management processes with real-time data access
-</details>
-
-<details>
-<summary><b>Data Science Intern @ Krishna Beads Industries</b> (Jan '24 - Feb '24)</summary>
-
-- ⚡ Accelerated data processing speed by 35% through optimized Python infrastructure
-- 🔧 Automated large-scale data analysis using xlwings and pywin
-- 📈 Enabled concurrent processing for large-scale operations
-</details>
-
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks
